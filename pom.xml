@@ -8,6 +8,7 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <packaging>jar</packaging>
     <groupId>com.coding</groupId>
     <artifactId>hstest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
